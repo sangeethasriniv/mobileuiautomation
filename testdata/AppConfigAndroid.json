@@ -1,0 +1,3 @@
+{"testapp":{"app": "build/testapp.apk", 
+		  "androidPackage": "com.vmware.testapp",
+		  "appActivity": ".testActivity"}}
